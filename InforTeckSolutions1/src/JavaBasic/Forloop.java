@@ -8,7 +8,7 @@ public class  Forloop {
 		System.out.print("solomon's age is ="  + age + "dfdfsdfsdfsdf" + "\n");
 		String myreturneddata= myAgeFuncion(age);
 		for(int i =1; i <=10; i++){
-			System.out.println(i + "."  +  myreturneddata);
+			System.out.println(i + ")"  +  myreturneddata);
 		}
 		
 	
