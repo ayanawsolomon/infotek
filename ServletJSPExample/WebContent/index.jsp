@@ -10,7 +10,7 @@
 <body>
 <form action="aa" method="post">
 	<table>
-		<tr><td>Name is : <input type="text" name="name"/></td></tr>
+		<tr><td>Full Name: <input type="text" name="name"/></td></tr>
 		<tr><td>Pass: <input type="password" name="pass"/></td></tr>
 		<tr><input type="submit" value="submit"></submit></tr>
 	</table>
